@@ -21,4 +21,6 @@ print(b**3)     # it means b*b*b (5*5*5)
 print("a value is :",a,"now")
 # print("a value is :"+a )     # throws error can't add string with int
 
+print("test")
+
 
